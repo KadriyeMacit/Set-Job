@@ -1,5 +1,5 @@
 # Set-Job
- It is a project on Cyberpunk for Flutter Hacktron. #Hack20
+ It is a project on Cyberpunk for Flutter Hackathon. #Hack20
  
 People under the pressure of various problems have to do the jobs chosen by the system instead of the jobs they love.
 
